@@ -1,14 +1,14 @@
 <h3 align="center">
-  <img src="images/icons/gsurma_icon_web.png" width="300">
+  <img src="images/icons/Learn-Live_icon_web.png" width="300">
 </h3>
 
 # Portfolio
 
-Adapted from **[gsurma.gihub.io](https://gsurma.github.io)**
+Adapted from **[Learn-Live.gihub.io](https://Learn-Live.github.io)**
 ```shell script
 Feel free to use his template but please add credits attribution in the footnote.
 
-`<a> template by </a> <a href="https://gsurma.github.io/">gsurma</a>`
+`<a> template by </a> <a href="https://gsurma.github.io">gsurma</a>`
 
 ```
 
