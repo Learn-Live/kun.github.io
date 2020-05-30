@@ -2,24 +2,27 @@
   <img src="images/icons/gsurma_icon_web.png" width="300">
 </h3>
 
-
 # Portfolio
 
-**[gsurma.gihub.io](https://gsurma.github.io)**
-
-Feel free to use my template but please add credits attribution in the footnote.
+Adapted from **[gsurma.gihub.io](https://gsurma.github.io)**
+```shell script
+Feel free to use his template but please add credits attribution in the footnote.
 
 `<a> template by </a> <a href="https://gsurma.github.io/">gsurma</a>`
 
+```
+
 ## Author
 
-**Greg (Grzegorz) Surma**
+**Kun**
 
-[**PORTFOLIO**](https://gsurma.github.io)
+[**PORTFOLIO**](https://Learn-Live.github.io)
 
-[**GITHUB**](https://github.com/gsurma)
+[**GITHUB**](https://github.com/Learn-Live)
 
-[**BLOG**](https://medium.com/@gsurma)
+<!-- comment
+[**BLOG**](https://medium.com/@Learn-Live)
+-->
 
 <a href="https://www.paypal.com/paypalme2/grzegorzsurma115">
   <img alt="Support via PayPal" src="https://cdn.rawgit.com/twolfson/paypal-github-button/1.0.0/dist/button.svg"/>
