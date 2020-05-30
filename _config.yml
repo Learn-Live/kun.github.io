@@ -7,7 +7,7 @@ twitter_username: gsurma
 github_username:  gsurma
 google_analytics: UA-110543961-1
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
