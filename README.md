@@ -4,7 +4,7 @@
 
 # Portfolio
 
-Adapted from **[Learn-Live.gihub.io](https://Learn-Live.github.io)**
+Adapted from **[gsurma.github.io](https://gsurma.github.io)**
 ```shell script
 Feel free to use his template but please add credits attribution in the footnote.
 
